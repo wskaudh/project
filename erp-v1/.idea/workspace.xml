@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79cef1cf-1bf1-4c2d-8a32-74bad4332339" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/.idea/Django-ERP-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/Install/SQL/mis.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/Install/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/basedata/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/basedata/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/basedata/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/basedata/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/basedata/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/basedata/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/basedata/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/common/const.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/common/generic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/django-erp安装说明（北风南里）.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/hr/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/hr/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/hr/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/hr/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/hr/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/hr/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/invent/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/invent/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/invent/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/invent/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/invent/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/invent/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/invent/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/locale/zh_CN/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/locale/zh_CN/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/midware/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/midware/cuser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/mis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/mis/production.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/mis/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/mis/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/mis/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/mis/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/organ/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/organ/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/organ/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/organ/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/organ/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/organ/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/plugin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/plugin/wfactions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/plugin/wfnodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/plugin/wfusers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/plugin/xls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/purchase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/purchase/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/purchase/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/purchase/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/purchase/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/purchase/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/sale/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/sale/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/sale/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/sale/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/sale/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/sale/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/selfhelp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/selfhelp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/selfhelp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/selfhelp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/selfhelp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/selfhelp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/selfhelp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/static/css/maximus.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/static/img/icon-submitlink.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/static/img/icon-submitlink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/static/img/icon-yes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/static/js/maximus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/static/js/workorder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/syscfg/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/syscfg/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/syscfg/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/syscfg/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/syscfg/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/syscfg/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/app_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/invent/inventory/change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/invent/stockin/change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/invent/stockin/in_confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/invent/stockout/change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/invent/stockout/out_confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/object_history.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/selfhelp/workorder/change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/submit_line.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/admin/workflow/node/change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/default/workflow/workflow_approve_confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/templates/default/workflow/workflow_start_confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1001部门岗位员工导入模板test.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1003合作伙伴导入模板.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1003合作伙伴导入模板_ENnUPsg.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1004项目导入模板.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1004项目导入模板_MDj3PCr.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1004项目导入模板_QE5NXrr.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1004项目导入模板_Sfco4Ck.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1004项目导入模板_YfVeRXU.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1005用户信息导入模板.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1005用户信息导入模板_LRE2NKU.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/1005用户信息导入模板_stkXmtR.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/data/合作伙伴.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/doc/1001部门岗位员工导入模板.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/doc/1002期初库存导入模板.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/doc/1003合作伙伴导入模板.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/doc/1004项目导入模板.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/doc/2001报价单明细样例.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/doc/2002需求计划明细样例.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/doc/2003采购单明细样例.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/inventory/INVENTORY.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/inventory/INVENTORY_PPfDioe.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/offer sheet/backbone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/project/2014年17月份时事政治全集.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/upload/project/综合知识与能力素质.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/workflow/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/workflow/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/workflow/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/workflow/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/workflow/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/workflow/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/00产品资料-功能表.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/10使用手册-功能概述.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/20使用手册-基本操作.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/30使用手册-个人自助.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/40使用手册-销售管理.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/50使用手册-采购管理.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/60使用手册-库存管理.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erp/django-erp/文档/70使用手册-工作流管理.doc" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1795074158">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-1313885150">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2" />
+          <entry key="txt" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.types.open" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mis/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="1750" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="erp-v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="erp-v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="erp-v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="erp-v1" type="462c0819:PsiDirectoryNode" />
+              <item name="mis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Django-ERP-master" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django-ERP-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79cef1cf-1bf1-4c2d-8a32-74bad4332339" name="默认" comment="" />
+      <created>1534945946170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534945946170</updated>
+    </task>
+    <task id="LOCAL-00001" summary="初始化erp-v1">
+      <created>1535466971739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535466971739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1400" height="820" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37704918" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49925485" visible="true" weight="0.73216885" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.32896653" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007452" side_tool="true" weight="0.33915576" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化erp-v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化erp-v1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mis/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="94" column="23" lean-forward="true" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
