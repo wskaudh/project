@@ -54,9 +54,9 @@ class DepartmentTable(models.Model):
 
 #架构表
 class FrameTable(models.Model):
-    Farea = models.ForeignKey(AreaTable, verbose_name="区域", on_delete=models.CASCADE,)
-    Fcompany = models.ForeignKey(CompanyTable, verbose_name="公司", on_delete=models.CASCADE,)
-    Fdepartment = models.ForeignKey(DepartmentTable, verbose_name="部门", on_delete=models.CASCADE,)
+    Farea = models.ForeignKey(AreaTable, verbose_name="区域", on_delete=models.CASCADE)
+    Fcompany = models.ForeignKey(CompanyTable, verbose_name="公司", on_delete=models.CASCADE)
+    Fdepartment = models.ForeignKey(DepartmentTable, verbose_name="部门", on_delete=models.CASCADE)
     isdelete = models.BooleanField(default=False)
 
     class Meta:
