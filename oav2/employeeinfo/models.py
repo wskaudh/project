@@ -153,7 +153,7 @@ class EmployeeinfoTable(models.Model):
     area = models.ForeignKey(AreaTable, verbose_name="区域", on_delete=models.CASCADE)
     company = models.ForeignKey(CompanyTable, verbose_name="公司", on_delete=models.CASCADE)
     department = models.ForeignKey(DepartmentTable, verbose_name="部门", on_delete=models.CASCADE)
-    category = models.ForeignKey(CetagoryTable, verbose_name="部门类别", on_delete=models.CASCADE)
+    category = models.ForeignKey(CategoryTable, verbose_name="部门类别", on_delete=models.CASCADE)
     nation = models.ForeignKey(NationTable, verbose_name="民族",blank=True, null=True, on_delete=models.CASCADE)
     household_register = models.ForeignKey(HouseholdRegisterTable, verbose_name="户籍", blank=True, null=True, on_delete=models.CASCADE)
 

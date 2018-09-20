@@ -2,8 +2,9 @@
 from django.contrib import admin
 import xadmin
 from .models import *
+from xadmin import views
 # Register your models here.
-#from xadmin import views
+
 
 
 
