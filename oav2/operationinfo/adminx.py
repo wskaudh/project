@@ -18,3 +18,20 @@ class ContactsAdmin(object):
     exclude = ('isdelete',)  # 排除显示isdelede字段出来
 
 xadmin.site.register(ContactsTable, ContactsAdmin)
+
+
+#3注册光纤网络表
+class FiberAndNetworkAdmin(object):
+    list_display = ('area', 'company', 'supplier', 'fiber_number', 'accounts', 'password', 'ip_addr',  )
+    exclude = ('isdelete', 'bak1', 'bak2', 'bak3', 'bak4')  # 排除显示isdelede/bak1/bak2/bak3/bak4字段出来
+
+xadmin.site.register(FiberAndNetworkTable, FiberAndNetworkAdmin)
+
+
+#4注册软件资源库
+class SoftResourceLibraryAdmin(object):
+    list_display = ('area','company','department','category','edition',)
+    exclude = ('isdelete', 'bak1', 'bak2', 'bak3', 'bak4')  # 排除显示isdelede/bak1/bak2/bak3/bak4字段出来
+
+
+xadmin.site.register(SoftResourceLibraryTable, SoftResourceLibraryAdmin)
